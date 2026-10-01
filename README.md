@@ -7,7 +7,7 @@ Cat · Dog · Wine Bottle · Skateboard · Snake · Dumbbell · Shark · Guitar 
 
 The Jupyter Notebook in this repository contains the model development and training process, including data preparation, CNN architecture, training, evaluation, and testing.
 
-The final model achieved approximately 92.4% accuracy on a held-out test set of 20,000 drawings.
+The final model achieved 92.68% accuracy on a held-out test set of 20,000 drawings.
 
 Try It
 
